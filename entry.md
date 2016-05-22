@@ -31,7 +31,7 @@ Is easy to type `^C` by accident, don't kill the session!
     auto-vertical-output
 
 If the output is wider than the screen the output will look like shit, this fix
-that
+it
 
     i-am-a-dummy
 
@@ -39,7 +39,7 @@ Because, indeed, I am a dummy
 
     auto-rehash
 
-I want completion, don't you?
+You want completion, don't you?
 
 
 ### Prompt & color
