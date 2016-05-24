@@ -64,8 +64,10 @@ You might want to configure **ccze** as well with the `~/.ccze` file:
 
 ## Input
 
-The cli client uses *getline* so lets configure it to get vi like bindings by
-creating a `~/.inputrc` file with the content:
+The cli client uses
+[readline](https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html) so lets
+configure it to get vi like bindings by creating a `~/.inputrc` file with the
+content:
 
     $if mysql
         set editing-mode vi
